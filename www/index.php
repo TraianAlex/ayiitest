@@ -4,6 +4,11 @@
 $yii=dirname(__FILE__).'/../framework/yii.php';
 $config=dirname(__FILE__).'/../protected/config/main.php';
 
+function d2l($what,$where='fb.somewhere'){
+    $what=print_r($what,true);
+    Yii::log($what, 'info', 'application.'.$where);
+}
+
 // remove the following lines when in production mode
 defined('YII_DEBUG') or define('YII_DEBUG',true);
 // specify how many levels of call stack should be shown in each log message
