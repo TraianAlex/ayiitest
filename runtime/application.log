@@ -1,0 +1,1544 @@
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:08 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:20 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:25 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:32 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:50 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:13:54 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:18:08 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:19:53 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:07 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:09 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:09 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:09 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:10 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:10 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:10 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:10 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:14 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:22:17 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:39 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:43 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:45 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:23:48 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:16 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:19 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:21 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:21 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:21 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:21 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:21 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:22 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:22 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:22 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:22 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:24 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:24 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:24 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:25 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:30 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:27:35 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:28 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:31 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:34 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:37 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:54 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:55 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:56 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/11 23:28:57 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:28:58 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:28:59 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:00 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/11 23:29:01 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:02 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:03 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:05 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:06 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:07 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:24 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:25 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/11 23:29:26 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:38 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:39 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:40 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:41 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:42 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:43 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:44 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:45 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:01:57 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (43)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (2)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (53)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+2014/09/12 00:01:58 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (32)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (23)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (30)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\login.php (52)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\main.php (35)
+in C:\xampp\htdocs\ayiitest\protected\views\layouts\column1.php (6)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+2014/09/12 00:03:44 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (98)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "user" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (14)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (34)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (38)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "clientScript" application component
+in C:\xampp\htdocs\ayiitest\protected\views\site\contact.php (68)
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "assetManager" application component
+in C:\xampp\htdocs\ayiitest\protected\controllers\SiteController.php (72)
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/12 00:03:45 [trace] [system.CModule] Loading "session" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)

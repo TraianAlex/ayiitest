@@ -1,0 +1,17 @@
+2014/09/11 23:19:30 [trace] [system.CModule] Loading "log" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:31 [trace] [system.CModule] Loading "request" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:31 [trace] [system.CModule] Loading "urlManager" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:31 [trace] [system.CModule] Loading "coreMessages" application component
+in C:\xampp\htdocs\ayiitest\www\index.php (13)
+2014/09/11 23:19:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "site".' in C:\xampp\htdocs\ayiitest\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\ayiitest\framework\web\CWebApplication.php(141): CWebApplication->runController('')
+#1 C:\xampp\htdocs\ayiitest\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\ayiitest\www\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/ayiitest/www/index.php
+---
+2014/09/11 23:19:31 [trace] [system.CModule] Loading "errorHandler" application component
